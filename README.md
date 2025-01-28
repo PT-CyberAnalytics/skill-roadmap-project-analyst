@@ -4,7 +4,7 @@ Project Secrity Analyst writes pentest reports and incident investigation report
 
 ## Table of Contents
 
-- [Soft Skills](#Soft Skills)
+- [Soft Skills](#soft-skills)
 
 # Soft Skills
 
