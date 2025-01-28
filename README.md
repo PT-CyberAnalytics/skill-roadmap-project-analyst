@@ -34,3 +34,4 @@ The ability to clearly and competently express your thoughts in written and oral
 ## Skills
 - [Presenting ideas to different audiences](Soft%20skills/Presenting%20ideas%20to%20different%20audiences.md)
 - [Writing Skills](Soft%20skills/Writing%20Skills.md)
+- [Analysis of large amounts of data](Soft%20skills/Analysis%20of%20large%20amounts%20of%20data.md)
