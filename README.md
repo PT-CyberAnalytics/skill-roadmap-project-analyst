@@ -5,6 +5,13 @@ Project Secrity Analyst writes pentest reports and incident investigation report
 ## Table of Contents
 
 - [Soft Skills](#soft-skills)
+- [Hardening Basics](#hardening-basics)
+- [Blue Team skills](#blue-team-skills)
+- [Modern cyberattacks](#modern-cyberattacks)
+- [Best Practice](#best-practice)
+- [Vulnerabilities/Attacks](#vulnerabilities/attacks)
+- [Tools](#tools)
+- [Working environment](#working-environment)
 
 # Soft Skills
 
