@@ -30,3 +30,7 @@ The ability to clearly and competently express your thoughts in written and oral
 - Learn tools for working with large amounts of information (e.g. Excel) to better analyze and structure information for reports.
 - Develop active listening and feedback management skills to more productively interact with colleagues and clients.
 - Regularly improve your public speaking and presentation skills to confidently present your work results and recommendations.
+
+## Skills
+- [Presenting ideas to different audiences](Soft%20skills/Presenting%20ideas%20to%20different%20audiences.md)
+- [Writing Skills](Soft%20skills/Writing%20Skills.md)
