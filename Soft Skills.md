@@ -1,21 +1,17 @@
 # Soft Skills
 
-Description 
+## Description 
 
 The "Soft Skills" section includes skills related to effective communication, information analysis, and work organization. These skills are necessary for interaction with colleagues, customers, and top management, as well as for the formation of clear, understandable, detailed reports and recommendations. The ability to research and search for information is also important for an analyst. This includes the ability to analyze trends and practices, the ability to work with sources, search for information in books, forums, and scientific articles. This is useful for navigating new situations, reducing dependence on third-party experts, and delivering value through the use of up-to-date data.
 
-Why learn this?
+## Why learn this?
 
 The ability to clearly and competently express your thoughts in written and oral form allows the analyst to correctly convey technical conclusions to different audience categories - from specialists to managers. This is important both for internal teamwork and for communication with external customers. Developing this block helps to more effectively convey your thoughts, analyze large amounts of data and find a common language with colleagues.
 
-How to improve
+## How to improve
 
-Practice writing reports and presentations for a variety of audiences, from technical specialists to senior managers. Try to adapt the style and level of detail to specific readers.
-
-Participate in regular discussions and meetings to improve your oral communication skills, and learn to explain complex technical topics in simple language.
-
-Learn tools for working with large amounts of information (e.g. Excel) to better analyze and structure information for reports.
-
-Develop active listening and feedback management skills to more productively interact with colleagues and clients.
-
-Regularly improve your public speaking and presentation skills to confidently present your work results and recommendations.
+- Practice writing reports and presentations for a variety of audiences, from technical specialists to senior managers. Try to adapt the style and level of detail to specific readers.
+- Participate in regular discussions and meetings to improve your oral communication skills, and learn to explain complex technical topics in simple language.
+- Learn tools for working with large amounts of information (e.g. Excel) to better analyze and structure information for reports.
+- Develop active listening and feedback management skills to more productively interact with colleagues and clients.
+- Regularly improve your public speaking and presentation skills to confidently present your work results and recommendations.
