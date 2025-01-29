@@ -109,3 +109,24 @@ Knowledge of modern attacks allows the analyst to better understand current cybe
 - [Current methods of cyber attacks](Modern%20cyberattacks/Current%20methods%20of%20cyber%20attacks.md)
 - [APT groups](Modern%20cyberattacks/APT%20groups.md)
 - [Dark Web](Modern%20cyberattacks/Dark%20Web.md)
+
+# Best Practice
+
+## Description
+This section includes the basic approaches and principles used in the cybersecurity industry to assess vulnerabilities and threats. It includes such important elements as the OWASP Top 10 for web applications, CVSS for assessing vulnerability severity, the MITRE ATT&CK matrix for analyzing attacker tactics and techniques, and the CWE knowledge base, which classifies vulnerability types.
+
+## Why learn this?
+Understanding standards helps you apply proven methodologies and tools to analyze vulnerabilities, classify attacks, and generate protection recommendations. Standards provide a common language to speak with colleagues, pentesters, and customers. It also helps generate reasonable and objective descriptions of attacks.
+
+## How to improve
+- Regularly update your knowledge of new versions of standards such as OWASP Top 10 and CVSS.
+- Improve your understanding of the MITRE ATT&CK matrix and practice using it when analyzing real attacks.
+- Read public reports and examples of practical application of best practices in real incidents.
+- Apply best practices in your daily work, analyzing attacks and vulnerabilities with their help.
+
+## Skills
+- [OWASP top10](Best%20Practice/OWASP%20top10.md)
+- [CVSS 3.1 & 4.0](Best%20Practice/CVSS%203.1%20&%204.0.md)
+- [MITRE ATT&CK](Best%20Practice/MITRE%20ATT&CK.md)
+- [CWE & CAPEC](Best%20Practice/CWE%20&%20CAPEC.md)
+- [Cyber Kill Chain](Best%20Practice/Cyber%20Kill%20Chain.md)
