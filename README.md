@@ -126,7 +126,7 @@ Understanding standards helps you apply proven methodologies and tools to analyz
 
 ## Skills
 - [OWASP top10](Best%20Practice/OWASP%20top10.md)
-- [CVSS 3.1 & 4.0](Best%20Practice/CVSS%203.1%20&%204.0.md)
+- [CVSS](Best%20Practice/CVSS.md)
 - [MITRE ATT&CK](Best%20Practice/MITRE%20ATT&CK.md)
 - [CWE & CAPEC](Best%20Practice/CWE%20&%20CAPEC.md)
 - [Cyber Kill Chain](Best%20Practice/Cyber%20Kill%20Chain.md)
