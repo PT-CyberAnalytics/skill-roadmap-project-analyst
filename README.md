@@ -172,7 +172,7 @@ With advanced office tools, an analyst can quickly and efficiently create report
 
 ## Skills
 - [Text editors](Tools/Text%20editors.md)
-- [Creating presentations](Tools/Creating%20presentations.md)
+- [Creating presentations](Tools/Creating%20presentaions.md)
 - [Flowcharts](Tools/Flowcharts.md)
 - [Data Analysis](Tools/Data%20Analysis.md)
 - [Automation](Tools/Automation.md)
