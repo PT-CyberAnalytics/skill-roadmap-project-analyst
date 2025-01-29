@@ -89,3 +89,23 @@ In projects involving presentations of the results of Blue Teams, it is importan
 - [Threat Intelligence](Blue%20Team%20skills/Threat%20Intelligence.md)
 - [Threat Hunting](Blue%20Team%20skills/Threat%20Hunting.md)
 - [Security Monitoring](Blue%20Team%20skills/Security%20Monitoring.md)
+
+# Modern cyberattacks
+
+## Description
+The Modern Attacks section covers current methods used by attackers to compromise systems and infrastructure. It includes the latest cyberattack techniques, APT groups, and exploitation methods found in modern threats, including phishing, ransomware, and supply chain attacks.
+
+## Why learn this?
+Knowledge of modern attacks allows the analyst to better understand current cyber threats and predict how attackers can attack the infrastructure. This is critical for the correct assessment of incidents, identifying attack vectors and developing effective protection measures. Without this knowledge, the analyst will not be able to quickly understand current attack methods and provide recommendations for preventing incidents.
+
+## How to improve
+- Stay up-to-date with the latest cyber-attack reports, incidents, and research from leading cybersecurity companies such as Positive Technologies, Mandiant, Kaspersky, CrowdStrike.
+- Study real-life attack cases such as APT groups, phishing campaigns, and ransomware attacks to understand how attackers adapt their methods to new realities and modern security systems.
+- Improve your threat analysis skills related to modern attack techniques such as supply chain attacks or zero-day exploitation.
+- Participate in training and exercises that simulate current attack scenarios to better understand their mechanism and detection methods.
+- Read research on Dark Web threats to stay up-to-date with new tools and tactics used by attackers.
+
+## Skills
+- [Current methods of cyber attacks](Modern%20cyberattacks/Current%20methods%20of%20cyber%20attacks.md)
+- [APT groups](Modern%20cyberattacks/APT%20groups.md)
+- [Dark Web](Modern%20cyberattacks/Dark%20Web.md)
