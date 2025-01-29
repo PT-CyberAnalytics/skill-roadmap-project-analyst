@@ -9,7 +9,7 @@ Project Secrity Analyst writes pentest reports and incident investigation report
 - [Blue Team skills](#blue-team-skills)
 - [Modern cyberattacks](#modern-cyberattacks)
 - [Best Practice](#best-practice)
-- [Vulnerabilities & Attacks](#vulnerabilities-&-attacks)
+- [Vulnerabilities and Attacks](#vulnerabilities-and-attacks)
 - [Tools](#tools)
 - [Working environment](#working-environment)
 
@@ -131,7 +131,7 @@ Understanding standards helps you apply proven methodologies and tools to analyz
 - [CWE & CAPEC](Best%20Practice/CWE%20&%20CAPEC.md)
 - [Cyber Kill Chain](Best%20Practice/Cyber%20Kill%20Chain.md)
 
-# Vulnerabilities & Attacks
+# Vulnerabilities and Attacks
 
 ## Description
 The Vulnerabilities/Attacks section covers the main types of system vulnerabilities and cyberattack techniques used by attackers and security analysts to compromise networks, applications and infrastructure. This includes vulnerabilities in web applications, operating systems, Active Directory, wireless networks, as well as social engineering and network attack methods.
