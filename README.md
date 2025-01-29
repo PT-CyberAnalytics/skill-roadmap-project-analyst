@@ -37,3 +37,22 @@ The ability to clearly and competently express your thoughts in written and oral
 - [Analysis of large amounts of data](Soft%20skills/Analysis%20of%20large%20amounts%20of%20data.md)
 - [Communication skills](Soft%20skills/Communication%20skills.md)
 - [Visualization skills](Soft%20skills/Visualization%20skills.md)
+
+# Hardening Basics
+
+## Description
+
+The "Hardening Basics" block includes practices and methods for increasing the security of systems and infrastructures to minimize the risks of their hacking. These methods cover password management, setting up antivirus protection, regularly updating systems, ensuring the secure operation of web applications, strengthening network security, and much more.
+
+## Why learn this?
+
+Hardening allows you to significantly reduce the risks of cyberattacks and exploitation of vulnerabilities by intruders. Knowing these basics helps to give recommendations on configuring systems in such a way as to minimize potential attack vectors and increase the security of organizations. An analyst needs to have knowledge not only of how to attack or exploit a particular vulnerability, but also be able to offer targeted recommendations that solve a particular security problem.
+
+## How to improve
+
+- Practice setting up secure settings for various systems: start with password management, access rights, antivirus protection and regular updates. Learn the essence of the principle of least privilege.
+- Study real cyberattack incidents and analyze how basic hardening measures could prevent incidents or minimize their consequences.
+- Regularly update your knowledge of best hardening practices for operating systems (Windows, Linux), web applications and network infrastructure.
+- Use hardening checklists and automated tools for assessing security configurations to periodically check their compliance with best practices.
+
+Participate in seminars and webinars to stay up to date with current methods and recommendations for strengthening security
