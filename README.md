@@ -176,3 +176,22 @@ With advanced office tools, an analyst can quickly and efficiently create report
 - [Flowcharts](Tools/Flowcharts.md)
 - [Data Analysis](Tools/Data%20Analysis.md)
 - [Automation](Tools/Automation.md)
+
+# Working environment
+
+## Description
+The "Working Environment" section includes the ability to understand the provided code snippets, HTTP request examples or console output, as well as knowledge of hacking tools. The analyst must understand what the pentesters are passing as input, understand the essence of their work, be it code, HTTP requests or the results of specialized tools like BurpSuite, Wireshark and BloodHound.
+
+## Why learn this?
+This knowledge allows the analyst to effectively interact with pentesters and other cybersecurity specialists. The ability to analyze code, HTTP requests, and the results of specialized utilities helps to correctly assess threats and formulate descriptions of cyberattacks. Without this skill, the analyst risks misunderstanding the essence of the problem or misinterpreting the actions of pentesters/attackers.
+
+## How to improve
+- Regularly study real examples of code, HTTP requests, and console outputs in the public domain, and practice interpreting them in the context of possible attacks and exploits. This may include parsing web application code, analyzing SQL queries, or understanding PowerShell scripts.
+- Get familiar with the basics of hacking tools such as BurpSuite, Wireshark, BloodHound to understand their functionality, the types of attacks they perform, and the results they generate.
+- Regularly analyze screenshots and reports created by these tools to confidently interpret the results of their use.
+- Participate in hands-on labs or cyber training grounds where you can interact with tools and analyze the data obtained to strengthen your skills in their application and interpretation.
+
+## Skills
+- [Reading code](Working%20environment/Reading%20code.md)
+- [Hacker tools](Working%20environment/Hacker%20tools.md)
+- [Log analysis](Working%20environment/Log%20analysis.md)
