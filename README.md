@@ -64,3 +64,28 @@ Participate in seminars and webinars to stay up to date with current methods and
 - [Web Application Security](Hardening%20Basics/Web%20Application%20Security.md)
 - [Network Security](Hardening%20Basics/Network%20Security.md)
 - [Principle of least privilege](Hardening%20Basics/Principle%20of%20least%20privilege.md)
+
+# Blue Team skills
+
+## Description
+
+The section is devoted to the principles, tools and methods of analyzing information security events to detect cyberattacks at any stage, as well as managing incident response in the IT infrastructure.
+
+It combines expertise in Threat Intelligence and Threat Hunting, and also requires an understanding of the principles of infrastructure monitoring and the use of information security tools to detect attacks of any complexity. Thus, within this block, special attention is paid to understanding the stages of incident response, including detection, analysis, containment, elimination and recovery.
+
+## Why learn this?
+
+In projects involving presentations of the results of Blue Teams, it is important for the analyst to be able to correctly interpret the data provided for the work. Mostly, the analyst works with artifacts such as event logs, but the data may also be in other formats, for example, sometimes it is necessary to study an unknown malicious scenario and understand what the attacker was able to do with it. Based on this data, the analyst should be able to understand and correctly describe how the incident occurred, how it was detected, how it can be prevented and detected in the future, and also provide recommendations on how to strengthen the infrastructure as a whole.
+
+## How to improve
+- Learn how to work with different monitoring systems, such as SIEM (e.g. Splunk or ELK), to analyze events and correlate security-related data.
+- Learn indicators of compromise (IOC) and Yara rules to identify malicious activity and detect threats in logs and traffic.
+- Practice attack chain analysis based on models such as Cyber ​​Kill Chain and MITRE ATT&CK to understand at what stages of an attack they can be detected.
+- Participate in incident response exercises regularly to improve your skills in monitoring and operational response to threats.
+- Keep an eye on new cyberattack techniques and tactics and implement appropriate monitoring rules to detect them in a timely manner.
+
+## Skills
+- [Cybersecurity Tools](Blue%20Team%20skills/Cybersecurity%20Tools.md)
+- [Threat Intelligence](Blue%20Team%20skills/Threat%20Intelligence.md)
+- [Threat Hunting](Blue%20Team%20skills/Threat%20Hunting.md)
+- [Security Monitoring](Blue%20Team%20skills/Security%20Monitoring.md)
