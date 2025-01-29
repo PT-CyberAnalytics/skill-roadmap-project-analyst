@@ -108,7 +108,7 @@ Knowledge of modern attacks allows the analyst to better understand current cybe
 ## Skills
 - [Current methods of cyber attacks](Modern%20cyberattacks/Current%20methods%20of%20cyber%20attacks.md)
 - [APT groups](Modern%20cyberattacks/APT%20groups.md)
-- [Dark Web](Modern%20cyberattacks/Dark%20Web.md)
+- [Dark Web](Modern%20cyberattacks/Dark%20web.md.md)
 
 # Best Practice
 
