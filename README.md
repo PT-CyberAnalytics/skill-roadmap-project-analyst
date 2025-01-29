@@ -151,7 +151,6 @@ It is important for an analyst to understand how modern cyberattacks work, how v
 - [WEB](Vulnerabilities%20and%20Attacks/WEB.md)
 - [Active Directory](Vulnerabilities%20and%20Attacks/Active%20Directory.md)
 - [Operating Systems](Vulnerabilities%20and%20Attacks/Operating%20Systems.md)
-- [Operating Systems](Vulnerabilities%20and%20Attacks/Operating%20Systems.md)
 - [Wi-Fi](Vulnerabilities%20and%20Attacks/Wi-Fi.md)
 - [Social Engineering](Vulnerabilities%20and%20Attacks/Social%20Engineering.md)
 - [Network Attacks](Vulnerabilities%20and%20Attacks/Network%20Attacks.md)
