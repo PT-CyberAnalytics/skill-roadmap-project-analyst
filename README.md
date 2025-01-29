@@ -56,3 +56,11 @@ Hardening allows you to significantly reduce the risks of cyberattacks and explo
 - Use hardening checklists and automated tools for assessing security configurations to periodically check their compliance with best practices.
 
 Participate in seminars and webinars to stay up to date with current methods and recommendations for strengthening security
+
+## Skills
+- [Password management](Hardening%20Basics/Password%20management.md)
+- [Endpoint Protection](Hardening%20Basics/Endpoint%20Protection.md)
+- [Patch Management](Hardening%20Basics/Patch%20Management.md)
+- [Web Application Security](Hardening%20Basics/Web%20Application%20Security.md)
+- [Network Security](Hardening%20Basics/Network%20Security.md)
+- [Principle of least privilege](Hardening%20Basics/Principle%20of%20least%20privilege.md)
