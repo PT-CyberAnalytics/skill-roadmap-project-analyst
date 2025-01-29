@@ -9,7 +9,7 @@ Project Secrity Analyst writes pentest reports and incident investigation report
 - [Blue Team skills](#blue-team-skills)
 - [Modern cyberattacks](#modern-cyberattacks)
 - [Best Practice](#best-practice)
-- [Vulnerabilities/Attacks](#vulnerabilities/attacks)
+- [Vulnerabilities & Attacks](#vulnerabilities-&-attacks)
 - [Tools](#tools)
 - [Working environment](#working-environment)
 
@@ -130,3 +130,19 @@ Understanding standards helps you apply proven methodologies and tools to analyz
 - [MITRE ATT&CK](Best%20Practice/MITRE%20ATT&CK.md)
 - [CWE & CAPEC](Best%20Practice/CWE%20&%20CAPEC.md)
 - [Cyber Kill Chain](Best%20Practice/Cyber%20Kill%20Chain.md)
+
+# Vulnerabilities & Attacks
+
+## Description
+The Vulnerabilities/Attacks section covers the main types of system vulnerabilities and cyberattack techniques used by attackers and security analysts to compromise networks, applications and infrastructure. This includes vulnerabilities in web applications, operating systems, Active Directory, wireless networks, as well as social engineering and network attack methods.
+
+## Why learn this?
+It is important for an analyst to understand how modern cyberattacks work, how vulnerabilities are exploited, and how this affects the security of organizations. Knowledge of vulnerabilities helps to correctly assess risks, develop protection strategies, and provide customers with accurate recommendations on eliminating weaknesses in their systems. This is the basis for developing effective protection measures and incident response plans.
+
+## How to improve
+- Constantly research new vulnerabilities and exploits through open databases (e.g. CVE, CWE) and cyber attack resources.
+- Practice analyzing specific vulnerabilities and attacks, develop cases to research and understand them.
+- Study successful attacks and incidents to understand how attackers bypass security measures.
+- Keep an eye on new social engineering methods and APT groups' approaches, study real attack scenarios.
+- Complete vulnerability exploitation labs to better understand attacker techniques.
+- Participate in CTF (Capture the Flag) competitions and labs to apply your knowledge in practice.
