@@ -146,3 +146,13 @@ It is important for an analyst to understand how modern cyberattacks work, how v
 - Keep an eye on new social engineering methods and APT groups' approaches, study real attack scenarios.
 - Complete vulnerability exploitation labs to better understand attacker techniques.
 - Participate in CTF (Capture the Flag) competitions and labs to apply your knowledge in practice.
+
+## Skills
+- [WEB](Vulnerabilities%20and%20Attacks/WEB.md)
+- [Active Directory](Vulnerabilities%20and%20Attacks/Active%20Directory.md)
+- [Operating Systems](Vulnerabilities%20and%20Attacks/Operating%20Systems.md)
+- [Operating Systems](Vulnerabilities%20and%20Attacks/Operating%20Systems.md)
+- [Wi-Fi](Vulnerabilities%20and%20Attacks/Wi-Fi.md)
+- [Social Engineering](Vulnerabilities%20and%20Attacks/Social%20Engineering.md)
+- [Network Attacks](Vulnerabilities%20and%20Attacks/Network%20Attacks.md)
+- [Mobile Applications](Vulnerabilities%20and%20Attacks/Mobile%20Applications.md)
