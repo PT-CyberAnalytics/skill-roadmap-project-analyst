@@ -155,3 +155,24 @@ It is important for an analyst to understand how modern cyberattacks work, how v
 - [Social Engineering](Vulnerabilities%20and%20Attacks/Social%20Engineering.md)
 - [Network Attacks](Vulnerabilities%20and%20Attacks/Network%20Attacks.md)
 - [Mobile Applications](Vulnerabilities%20and%20Attacks/Mobile%20Applications.md)
+
+# Tools
+
+## Description
+The "Toolbox" section covers key office programs that are used for documentation, data analysis, and data visualization in reports. These tools help you correctly format results, present information in a visual form, and effectively interact with customers and colleagues in text format.
+
+## Why learn this?
+With advanced office tools, an analyst can quickly and efficiently create reports, visualize complex processes, and present results to audiences of various levels. These skills are essential for effective communication and documentation of work, as well as for creating structured reports and presentations.
+
+## How to improve
+- Learn advanced features of MS Word and its analogues to automate document formatting and work with templates.
+- Master MS Excel for data analysis, including the use of complex formulas, pivot tables and charts.
+- Practice creating visual and understandable presentations, paying attention to structure and design.
+- Develop skills for creating diagrams and charts, which is especially important when visualizing complex attack vectors.
+
+## Skills
+- [Text editors](Tools/Text%20editors.md)
+- [Creating presentations](Tools/Creating%20presentations.md)
+- [Flowcharts](Tools/Flowcharts.md)
+- [Data Analysis](Tools/Data%20Analysis.md)
+- [Automation](Tools/Automation.md)
