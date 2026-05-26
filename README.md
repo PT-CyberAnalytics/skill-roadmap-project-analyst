@@ -1,6 +1,6 @@
 # Project Security Analyst Roadmap
 Welcome to the Project Security Analyst Roadmap repository! This guide provides a comprehensive collection of skills to help you become proficient in security analysis.
-Project Secrity Analyst writes pentest reports and incident investigation reports, as well as expert research.
+Project Security Analyst writes pentest reports and incident investigation reports, as well as expert research.
 
 ## Table of Contents
 
